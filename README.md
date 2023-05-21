@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋 I'm Rama,
 🔭 I’m currently working on building full-stack web applications <br>⚡ Here's a fun fact about me: When I'm not coding, you can find me exploring nature and capturing its beauty through my camera lens. Photography is my way of finding inspiration and relaxation outside the digital world.<br><br>Feel free to explore my repositories and reach out to me for collaborations, discussions, or any inquiries. Let's connect and create remarkable web applications together!
 
 
