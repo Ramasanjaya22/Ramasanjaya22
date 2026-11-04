@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <a href="https://ramasanjaya22.github.io"><strong>ramasanjaya22.github.io</strong></a> — portfolio, case studies, and writing
+</p>
+
+<p align="center">
   <a href="https://github.com/ramasanjaya22">
     <img src="https://komarev.com/ghpvc/?username=ramasanjaya22&style=flat-square&color=111111" alt="Profile views" />
   </a>
@@ -30,6 +34,9 @@
 ## <img src="https://img.icons8.com/ios-filled/16/111111/share-2.png" alt="Connect" /> Find Me
 
 <p align="left">
+  <a href="https://ramasanjaya22.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://instagram.com/ramaas_8" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
