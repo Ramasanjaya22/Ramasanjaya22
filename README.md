@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ramasanjaya22.github.io"><strong>ramasanjaya22.github.io</strong></a> — portfolio, case studies, and writing
+  <a href="https://ramasanjaya.vercel.app"><strong>ramasanjaya.vercel.app</strong></a> — portfolio, case studies, and writing
 </p>
 
 <p align="center">
